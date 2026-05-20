@@ -1,0 +1,19 @@
+AI-assisted lesion explanation
+
+Predicted class:
+Melanocytic nevus (nv)
+
+Confidence:
+The model predicts this class with very high confidence (98.7%).
+
+Clinical meaning:
+This is commonly known as a mole and is usually benign.
+
+Visual explanation:
+The model focused mainly on the central lesion region, particularly darker pigmentation and irregular internal structure.
+
+Alternative model considerations:
+Other possible classes considered by the model were mel (0.5%), df (0.4%).
+
+Recommendation:
+This output should be treated as decision support only and not as a definitive diagnosis. Clinical review by a dermatologist is recommended, especially if the lesion is changing in size, color, or border characteristics.

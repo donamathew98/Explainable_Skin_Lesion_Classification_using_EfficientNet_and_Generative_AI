@@ -1,0 +1,19 @@
+AI-assisted lesion explanation
+
+Predicted class:
+Benign keratosis-like lesion (bkl)
+
+Confidence:
+The model predicts this class with low confidence (48.9%).
+
+Clinical meaning:
+This class usually includes non-cancerous skin lesions, though clinical confirmation is still important.
+
+Visual explanation:
+The model focused mainly on the central lesion region, particularly darker pigmentation and irregular internal structure.
+
+Alternative model considerations:
+Other possible classes considered by the model were bcc (23.4%), akiec (14.1%).
+
+Recommendation:
+This output should be treated as decision support only and not as a definitive diagnosis. Clinical review by a dermatologist is recommended, especially if the lesion is changing in size, color, or border characteristics.
